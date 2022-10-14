@@ -1,0 +1,33 @@
+body{
+    background-size:cover;
+}
+.heading{
+    margin-top:0px;
+    width: 100%;
+    font-size:23px;
+}
+.start,#status,#number{
+    font-size: 18px;
+}
+.footer{
+    bottom:0;
+    text-align:center;
+    background-color:grey;
+    position:fixed;
+    width:100%;
+    color: white;
+    line-height:3;
+}
+canvas{
+    box-shadow: 5px 5px 5px white;
+    border:2px solid white;
+    margin-top: 130px;
+    border-radius: 10px;
+}
+#input{
+    width:600;
+     height:30;
+    font-size: x-large;
+    background-color:lightblue;
+    font-weight: bold;
+}
